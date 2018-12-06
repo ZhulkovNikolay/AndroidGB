@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeatherFragment</string>
+    <string name="empty">Список город пуст</string>
+    <string name="view">TextView</string>
+    <string name="listName">Список городов</string>
+
+    <string-array name="Cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Екатеринбург</item>
+        <item>Новосибирск</item>
+        <item>Самара</item>
+    </string-array>
+</resources>
