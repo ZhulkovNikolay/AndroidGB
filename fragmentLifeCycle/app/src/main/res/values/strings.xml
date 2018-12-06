@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">fragmentLifeCycle</string>
+    <string name="buttonName1">Показать картинку 1</string>
+    <string name="buttonName2">Показать картинку 2</string>
+</resources>
